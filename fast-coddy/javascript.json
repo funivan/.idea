@@ -1,0 +1,19 @@
+{
+  "delimiters": [
+    "("
+  ],
+  "items": [
+    {
+      "group": "if",
+      "shortcut": "(eli|if)",
+      "expand": " $1($TAB1$){$TAB2$}",
+      "isRegex": true,
+      "regexReplaces": {
+        "eli": "else if"
+      },
+      "tabs": {
+        "TAB2": []
+      }
+    }
+  ]
+}
