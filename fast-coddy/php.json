@@ -148,6 +148,7 @@
         "rf": "return false;",
         "rt": "return true;",
         "rn": "return null;",
+        "rs": "return \\$TAB1\\;",
         "r": "return \\$TAB1\\$;"
       },
       "tabs": {
